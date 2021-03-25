@@ -2,9 +2,6 @@
 - 🌱 I’m a Student from IMS Pro-school majoring in Data Science & AI
 - 💬 Ask me about Machine Learning, Deep Learning and Computer Vision.
 <details>
-<summary>
-  <b>More stuff about me</b>
-</summary>
 
 
 <!--
