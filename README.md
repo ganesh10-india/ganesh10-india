@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi there 👋! I'm Ganesh kasturi</h1>
 
-<h3 align="center"><i> Data Scientist | Machine Learning Enginner ! Data Analyst</i></h3>
+<h3 align="center"><i> Data Scientist | Machine Learning Engineer ! Data Analyst</i></h3>
 
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-kasturi10/)&nbsp;&nbsp;
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)](https://github.com/ganesh10-india/)&nbsp;&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:ganeshkasturi.datascience@gmail.com)(mailto:ganeshkasturi.datascience@gmail.com)&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:ganeshkasturi.datascience@gmail.com)/(mailto:ganeshkasturi.datascience@gmail.com)&nbsp;&nbsp;
 
 </div>
 
